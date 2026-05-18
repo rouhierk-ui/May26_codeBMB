@@ -14,7 +14,8 @@ A workshop for BMB faculty and fans interested in incorporating Python and codin
 
 ## Day 1 — Foundations of Python (1:00–4:00 PM)
 
--|----|----|----|----|----|
+|  |  |  |  |  |
+|----|----|----|----|----|
 | Time | Duration | Topic | Notebook | Notes |
 | 1:00 | 10 min | Welcome, introductions, poll | — | What do you hope to do with coding? |
 | 1:10 | 15 min | Pedagogical basis of coding | — | Why does coding matter in life sciences? |
@@ -28,7 +29,8 @@ A workshop for BMB faculty and fans interested in incorporating Python and codin
 
 ## Day 2 — Application + AI (1:00–4:00 PM)
 
--|----|----|----|----|----|
+|  |  |  |  |  |
+|----|----|----|----|----|
 | Time | Duration | Topic | Notebook | Notes |
 | 1:00 | 10 min | Recap + overnight questions | — | Address the most common questions |
 | 1:10 | 10 min | Project possibilities showcase | 004/005/006 | Fast instructor-led tour of all three tracks |
